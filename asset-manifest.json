@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-hooks-use-json-fetch-front/static/css/main.2e17d4aa.chunk.css",
+    "main.js": "/ra-hooks-use-json-fetch-front/static/js/main.0ce8539b.chunk.js",
+    "main.js.map": "/ra-hooks-use-json-fetch-front/static/js/main.0ce8539b.chunk.js.map",
+    "runtime-main.js": "/ra-hooks-use-json-fetch-front/static/js/runtime-main.072f9898.js",
+    "runtime-main.js.map": "/ra-hooks-use-json-fetch-front/static/js/runtime-main.072f9898.js.map",
+    "static/js/2.a1b134f5.chunk.js": "/ra-hooks-use-json-fetch-front/static/js/2.a1b134f5.chunk.js",
+    "static/js/2.a1b134f5.chunk.js.map": "/ra-hooks-use-json-fetch-front/static/js/2.a1b134f5.chunk.js.map",
+    "static/js/3.8b36d663.chunk.js": "/ra-hooks-use-json-fetch-front/static/js/3.8b36d663.chunk.js",
+    "static/js/3.8b36d663.chunk.js.map": "/ra-hooks-use-json-fetch-front/static/js/3.8b36d663.chunk.js.map",
+    "index.html": "/ra-hooks-use-json-fetch-front/index.html",
+    "static/css/main.2e17d4aa.chunk.css.map": "/ra-hooks-use-json-fetch-front/static/css/main.2e17d4aa.chunk.css.map",
+    "static/js/2.a1b134f5.chunk.js.LICENSE.txt": "/ra-hooks-use-json-fetch-front/static/js/2.a1b134f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.072f9898.js",
+    "static/js/2.a1b134f5.chunk.js",
+    "static/css/main.2e17d4aa.chunk.css",
+    "static/js/main.0ce8539b.chunk.js"
+  ]
+}
